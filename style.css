@@ -1,0 +1,101 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  font-size: 16px;
+}
+.navbar {
+  background-color: rgb(252, 253, 252);
+  border: 0.2em solid rgb(165, 164, 164);
+  border-radius: 0.25em;
+}
+img {
+  width: 16em;
+  height: fit-content;
+}
+
+.card-body {
+  width: 20em;
+  height: 7em;
+}
+
+#btn {
+  background-color: #ef7fe0;
+}
+#caption {
+  position: absolute;
+  justify-content: center;
+  text-align: center;
+  color: #ef7fe0;
+
+  margin-bottom: 2em;
+  text-shadow: 0.02em 0.02em 0 gray;
+  z-index: 1;
+
+  font-family: "Lugrasimo", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+.description-title {
+  font-size: 3em;
+  margin-top: 1em;
+  text-align: center;
+  color: #ef7fe0;
+  text-shadow: 0.02em 0.02em 0 gray;
+}
+b {
+  font-size: 1.5em;
+  font-family: "Lugrasimo", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.lista1 {
+  margin-left: 2em;
+  margin-right: 2em;
+  margin-bottom: 1em;
+  font-size: 1.5em;
+}
+.container1 {
+  margin-bottom: 3em;
+}
+
+.porfolio {
+  font-size: 3em;
+  margin-top: 1em;
+  margin-bottom: 2em;
+  text-align: center;
+  color: #ef7fe0;
+  text-shadow: 0.02em 0.02em 0 gray;
+}
+
+footer {
+  font-size: 2em;
+  text-align: center;
+  margin: 1em;
+}
+.nav-item {
+  font-size: 1.3em;
+}
+#btn-nav {
+  color: #ef7fe0;
+  font-family: "Lugrasimo", cursive;
+  font-weight: 400;
+  font-style: normal;
+  text-shadow: 0.03em 0.03em 0 gray;
+}
+#btn-nav1 {
+  font-size: 0.7em;
+  color: #ef7fe0;
+}
+#btn-nav1:hover {
+  color: rgb(165, 164, 164);
+}
+
+#carouselExampleInterval {
+  width: 100%;
+  height: fit-content;
+  padding: 0.3em;
+}
+/*#image {
+  opacity: 40%;
+}*/
