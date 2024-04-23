@@ -106,4 +106,7 @@ footer {
     margin-bottom: 1em;
     font-size: 1.2em;
   }
+  .description-title {
+    font-size: 2.5em;
+  }
 }
