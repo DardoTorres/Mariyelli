@@ -83,6 +83,9 @@ footer {
   font-style: normal;
   text-shadow: 0.03em 0.03em 0 gray;
 }
+#btn-nav:hover {
+  color: #ee3bd6;
+}
 #btn-nav1 {
   font-size: 0.7em;
   color: #ef7fe0;
@@ -108,5 +111,8 @@ footer {
   }
   .description-title {
     font-size: 2.5em;
+  }
+  #img1 {
+    width: 14em;
   }
 }
