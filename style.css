@@ -99,3 +99,11 @@ footer {
 /*#image {
   opacity: 40%;
 }*/
+@media (max-width: 62em) {
+  .lista1 {
+    margin-left: 1.5em;
+    margin-right: 1.5em;
+    margin-bottom: 1em;
+    font-size: 1.2em;
+  }
+}
